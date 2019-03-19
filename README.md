@@ -2,4 +2,4 @@
 
 * Will utilize the `ggplot2` package in R to create a heat map of speeding tickets issues in Montgomerey County, MD
 
-![Heat Map.png]
+![](Heat Map.png)
